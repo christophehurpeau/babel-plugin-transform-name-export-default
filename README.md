@@ -1,5 +1,7 @@
 # babel-plugin-transform-name-export-default [![NPM version][npm-image]][npm-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/christophehurpeau/babel-plugin-transform-name-export-default.svg)](https://greenkeeper.io/)
+
 Name default exported functions when they don't have a name with the file name
 
 [![Build Status][circleci-status-image]][circleci-status-url]
