@@ -22,4 +22,4 @@ test:
     - yarn run test
     - yarn run generate:test-coverage
   post:
-    - cp -R coverage $CIRCLE_ARTIFACTS/
+    - cp -R docs $CIRCLE_ARTIFACTS/
