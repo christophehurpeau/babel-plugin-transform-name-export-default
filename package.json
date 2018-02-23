@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-transform-name-export-default",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Name default exported functions when they don't have a name with the file name",
   "keywords": [
     "babel",
